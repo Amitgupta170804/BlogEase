@@ -9,7 +9,8 @@ A full-stack **blog platform** where users can create, read, update, and delete 
 ### 🔐 Authentication  
 - User Registration & Login (with hashed passwords)  
 - Secure Logout  
-- JWT/Session-based authentication  
+- JWT/Session-based authentication
+- Passport.js
 
 ### ✍️ Blog Management  
 - Create, Edit, Delete blogs  
